@@ -1,0 +1,21 @@
+.wrapper {
+    background:white;
+    max-width: 640px;
+    text-align: center;
+}
+
+.text {
+    font-size: 1.875rem;
+        line-height: 2.25rem;
+        font-weight: 700;
+        letter-spacing: -0.025em;
+        color: #111827;
+}
+
+.info{
+    margin-bottom: 1rem;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        font-weight: 300;
+        color: #6B7280;
+}
